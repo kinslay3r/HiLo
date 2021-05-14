@@ -1,1 +1,1 @@
-# HiLo
+This is a Hi-Lo guessing game that I wrote in college but it used a special class for Input/Output that the book's author wrote. I rewrote it so it no longer uses that special class.
